@@ -1,4 +1,5 @@
 langchain
-google-generativeai
+langchain-google-genai
 google-api-python-client
 streamlit
+python-dotenv
